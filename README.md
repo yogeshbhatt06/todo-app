@@ -16,24 +16,16 @@ Here are some preview images of the To-Do List app:
 
 ### 🖼️ Homepage View
 
-![Screenshot 1](ss1.jpg)
+![Screenshot 1](screenshot1.jpg)
 
 ### ✅ Adding Tasks
 
-![Screenshot 2](ss2.jpg)
+![Screenshot 2](screenshot2.jpg)
 
 ### ☑️ Completed Tasks
 
-![Screenshot 3](ss3.jpg)
+![Screenshot 3](screenshot3.jpg)
 
 ### 🌙 Dark Mode
 
-![Screenshot 4](ss4.jpg)
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yogeshbhatt06/todo-app.git
-```
+![Screenshot 4](screenshot4.jpg)
