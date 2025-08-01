@@ -16,7 +16,7 @@ Here are some preview images of the To-Do List app:
 
 ### 🖼️ Homepage View
 
-https://github.com/yogeshbhatt06/todo-app/blob/main/SS1.jpg?raw=true
+![Image](https://github.com/user-attachments/assets/06aefc97-f71e-41e2-9a9d-fe038174d8bf)
 
 ### ✅ Adding Tasks
 
